@@ -33,4 +33,3 @@ class ItemsController
         echo 'Aquí incluiremos nuestro formulario para insertar items';
     }
 }
-?>
