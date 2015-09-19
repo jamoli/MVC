@@ -7,6 +7,6 @@ $config->set('viewsFolder', 'views/');
  
 $config->set('dbhost', 'localhost');
 $config->set('dbname', 'pruebas');
-$config->set('dbuser', 'root');
-$config->set('dbpass', '69686968');
+$config->set('dbuser', 'user-word');
+$config->set('dbpass', 'password-word');
 ?>
