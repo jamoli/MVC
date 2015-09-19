@@ -23,4 +23,3 @@ $config->get('dbuser'), $config->get('dbpass'));
         return self::$instance;
     }
 }
-?>
