@@ -9,4 +9,3 @@ $config->set('dbhost', 'localhost');
 $config->set('dbname', 'pruebas');
 $config->set('dbuser', 'user-word');
 $config->set('dbpass', 'password-word');
-?>
