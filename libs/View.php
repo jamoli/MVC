@@ -39,4 +39,3 @@ class View
         include($path);
     }
 }
-?>
