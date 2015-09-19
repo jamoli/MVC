@@ -20,4 +20,3 @@ class ItemsModel
         return $consulta;
     }
 }
-?>
